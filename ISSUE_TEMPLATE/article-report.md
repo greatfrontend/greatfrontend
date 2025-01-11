@@ -2,44 +2,13 @@
 and do not show up in the rendered preview, do not write your
 answers within them! -->
 
-## Your GreatFrontEnd account email (optional)
+## Your GreatFrontEnd account username/email (optional)
 
 johndoe / john@example.com <!-- Replace with your email. We might use this to give rewards 😉 -->
-
-## Problematic section
-
-<!-- Section of the question which there is an issue. -->
-
-- [ ] Question description
-- [ ] Question skeleton
-- [ ] Question solution
-- [ ] Test cases (Missing/Incorrect/Unclear)
-
-## Type of question
-
-- [ ] JavaScript coding
-- [ ] User interface coding
-- [ ] Algo coding
-- [ ] System design
-- [ ] Quiz
 
 ## Describe the issue
 
 <!-- Provide a clear and concise description of the issue. -->
-
-## Code you used to submit (where relevant)
-
-<!-- Replace the contents within the ``` -->
-
-```js
-/**
- * @param {Array<*|Array>} value
- * @return {Array}
- */
-export default function flatten(value) {
-  // Your code here.
-}
-```
 
 ## Expected behavior vs Actual behavior (where relevant)
 
